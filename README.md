@@ -1,4 +1,4 @@
-# gulp-mobile-splashscreens [![Build Status](https://travis-ci.org/Collaborne/gulp-mobile-splashscreens.svg?branch=master)](https://travis-ci.org/Collaborne/gulp-mobile-splashscreens) [![Greenkeeper badge](https://badges.greenkeeper.io/Collaborne/gulp-mobile-splashscreens.svg)](https://greenkeeper.io/)
+# gulp-mobile-splashscreens [![Build Status](https://travis-ci.org/Collaborne/gulp-mobile-splashscreens.svg?branch=master)](https://travis-ci.org/Collaborne/gulp-mobile-splashscreens)
 
 Gulp plugin that creates PNG splashscreens for iOS and Android based on a SVG image
 
